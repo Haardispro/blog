@@ -28,10 +28,11 @@ twitter_username: haard2827
 github_username:  Haardispro
 
 # Build settings
-theme: minima
-ignore_theme_config: FALSE
+
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
