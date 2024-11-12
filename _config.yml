@@ -30,7 +30,7 @@ github_username:  Haardispro
 
 # Build settings
 
-#markdown: kramdown
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
