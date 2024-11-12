@@ -29,7 +29,7 @@ twitter_username: haard2827
 github_username:  Haardispro
 
 # Build settings
-
+theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
